@@ -26,8 +26,8 @@ g++ -o assembler main.cpp
 
 ## Usage
 
-1. Prepare your assembly code in a file named `input.txt`. An example input file is provided [here](example_input.txt).
-2. Define instruction opcodes in a file named `instructions.txt`. An example instructions file is provided [here](example_instructions.txt).
+1. Prepare your assembly code in a file named `x.txt`. An example input file is provided 
+2. Define instruction opcodes in a file named `instructions.txt`. An example instructions file is provided 
 3. Run the assembler:
 
    ```bash
@@ -49,6 +49,8 @@ X, DEC 83
 Y, DEC -23
 MIN, HEX 0
 END
+```
+
 ## Instructions File
 
 The instructions file should define opcode mappings for each instruction.
@@ -65,7 +67,7 @@ BSA 5 OR D
 ISZ 6 OR E
 CLA 7800
 ...
-
+```
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
