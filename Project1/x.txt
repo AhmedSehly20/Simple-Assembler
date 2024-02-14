@@ -1,0 +1,10 @@
+              ORG  209
+              LDA X /ASFASF
+              STA Y /ASFA
+              CMA
+              ADD  MIN
+              HLT
+X,            DEC  83
+Y,            DEC  -23
+MIN,          HEX  0
+              END

@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\My Work\Study\Semester3\CS223\Assembler project\Project1\Project1\Source.cpp(35,28): warning C4244: '+=': conversion from 'double' to 'unsigned long', possible loss of data
+D:\My Work\Study\Semester3\CS223\Assembler project\Project1\Project1\Source.cpp(38,28): warning C4244: '+=': conversion from 'double' to 'unsigned long', possible loss of data
+D:\My Work\Study\Semester3\CS223\Assembler project\Project1\Project1\Source.cpp(41,28): warning C4244: '+=': conversion from 'double' to 'unsigned long', possible loss of data
+D:\My Work\Study\Semester3\CS223\Assembler project\Project1\Project1\Source.cpp(132,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Work\Study\Semester3\CS223\Assembler project\Project1\Project1\Source.cpp(204,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Work\Study\Semester3\CS223\Assembler project\Project1\Project1\Source.cpp(316,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Work\Study\Semester3\CS223\Assembler project\Project1\Project1\Source.cpp(351,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Work\Study\Semester3\CS223\Assembler project\Project1\Project1\Source.cpp(441,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My Work\Study\Semester3\CS223\Assembler project\Project1\Project1\Source.cpp(545): warning C4715: 'Assembler': not all control paths return a value
+  Project1.vcxproj -> D:\My Work\Study\Semester3\CS223\Assembler project\Project1\x64\Debug\Project1.exe
